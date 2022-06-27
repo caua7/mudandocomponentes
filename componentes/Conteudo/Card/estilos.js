@@ -7,7 +7,7 @@ const estilos = StyleSheet.create({
   },
     cardContainer: {
         alignItems: "center",
-        backgroundColor: '#0a1c35',
+        backgroundColor: '#fff',
         paddingVertical: 20,
       },
       cardBox: {
@@ -20,13 +20,13 @@ const estilos = StyleSheet.create({
       },
       cardFotoCapa: {
         width: 300,
-        height: 200,
+        height: 300,
         borderTopLeftRadius: 10,
         borderTopRightRadius: 10,
       },
       cardNome: {
         marginTop: 10,
-        fontSize: 22,
+        fontSize: 30,
       },
       cardParagrafo: {
         margin: 10,
